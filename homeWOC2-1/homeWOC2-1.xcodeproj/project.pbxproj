@@ -14,6 +14,7 @@
 		183404DD1E66D99E0022ABC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183404DC1E66D99E0022ABC2 /* Assets.xcassets */; };
 		183404E01E66D99E0022ABC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183404DE1E66D99E0022ABC2 /* LaunchScreen.storyboard */; };
 		186CD35B1E688C9000AAA056 /* GG GRAD.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 186CD35A1E688C9000AAA056 /* GG GRAD.jpg */; };
+		18FB01541E68AB62009D633C /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 18FB01531E68AB62009D633C /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		183404DF1E66D99E0022ABC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		183404E11E66D99E0022ABC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		186CD35A1E688C9000AAA056 /* GG GRAD.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "GG GRAD.jpg"; path = "../../GG GRAD.jpg"; sourceTree = "<group>"; };
+		18FB01531E68AB62009D633C /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 			isa = PBXGroup;
 			children = (
 				186CD35A1E688C9000AAA056 /* GG GRAD.jpg */,
+				18FB01531E68AB62009D633C /* Podfile */,
 				183404CF1E66D99E0022ABC2 /* homeWOC2-1 */,
 				183404CE1E66D99E0022ABC2 /* Products */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18FB01541E68AB62009D633C /* Podfile in Resources */,
 				183404E01E66D99E0022ABC2 /* LaunchScreen.storyboard in Resources */,
 				183404DD1E66D99E0022ABC2 /* Assets.xcassets in Resources */,
 				186CD35B1E688C9000AAA056 /* GG GRAD.jpg in Resources */,
